@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/hanwastaken/tt-aahans-first-design
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26d
+  slot: tt_um_wokwi_476572525052234753
+  project: Aahan's First Design
+  size: 1x1
+  kind: digital (Wokwi)
+  commit: ede574da5b566c97122aa860e6f7a3b661d95ec1
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26d/tt_um_wokwi_476572525052234753
+  branch: tapeout/tinytapeout/ttgf26d/tt_um_wokwi_476572525052234753
+  page: https://app.tinytapeout.com/shuttles/ttgf26d
+generated: '2026-10-17T23:45:39Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26d/tt_um_wokwi_476572525052234753
+- upstream/main
